@@ -1,0 +1,31 @@
+{
+  "name": "react-hot-replacement-example",
+  "version": "1.0.0",
+  "description": "react-hot-replacement-example =============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damassi/react-hot-replacement-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damassi/react-hot-replacement-example/issues"
+  },
+  "homepage": "https://github.com/damassi/react-hot-replacement-example",
+  "devDependencies": {
+    "css-loader": "^0.9.0",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1",
+    "nib": "^1.0.4",
+    "sprintf": "^0.1.5",
+    "style-loader": "^0.8.2",
+    "stylus": "^0.49.3",
+    "stylus-loader": "^0.5.0",
+    "webpack": "^1.4.14",
+    "webpack-dev-server": "^1.7.0"
+  }
+}

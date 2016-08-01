@@ -1,0 +1,21 @@
+{
+  "name": "myReactWebpack",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "oscar"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.8"
+  }
+}
